@@ -30,7 +30,7 @@ Enable users (even non-technical ones) to derive trends, competitive positioning
 - **Hosting:** Lovable Publish  
 - **Workflow:** Prompt chaining, multi-stage output generation  
 - **Type:** Client-side UI + Prompt API simulation
-- 
+   
 ## 💼 Skills Demonstrated
 
 | Skill | Application |
