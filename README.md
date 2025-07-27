@@ -30,6 +30,22 @@ Enable users (even non-technical ones) to derive trends, competitive positioning
 - **Hosting:** Lovable Publish  
 - **Workflow:** Prompt chaining, multi-stage output generation  
 - **Type:** Client-side UI + Prompt API simulation
+- 
+## 💼 Skills Demonstrated
+
+| Skill | Application |
+|-------|-------------|
+| 🧠 Prompt Engineering | Layered prompt chaining, structured outputs |
+| ✨ GenAI Use Case Design | Fintech-specific content generator |
+| ✍️ Content Strategy | User-first writing tone, simplified output |
+| 🧩 System Thinking | From input → insight → action in 3 steps |
+| 🖼️ UI/UX Clarity | Minimalist layout to reduce overwhelm |
+
+##📸 **Preview**
+<img width="1881" height="862" alt="image" src="https://github.com/user-attachments/assets/22e5dd28-bc11-4ee2-8b22-833c4518ffb5" />
+<img width="1895" height="842" alt="image" src="https://github.com/user-attachments/assets/501accb7-2e15-4c4d-82a2-bb25668a7879" />
+
+
 
 ## 🔗 Live Demo
 
