@@ -64,4 +64,4 @@ Please do not copy, modify, or use this work without prior written permission.
 
 **Esha Sharma**  
 Prompt Engineer | GenAI Product Designer | Content Strategist  
-[Portfolio](https://eshadesignportfolio.framer.website/) • [LinkedIn](https://www.linkedin.com/in/esha-sharma-uix2025/)
+ • [LinkedIn](https://www.linkedin.com/in/esha-sharma-uix2025/)
